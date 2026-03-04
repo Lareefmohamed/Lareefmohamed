@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Lareef J.M
 
 🚀 **Computer Engineering Undergraduate | Aspiring Software Developer**  
-🎓 **3rd-year student at University of Ruhuna**  
+🎓 **Final year student at University of Ruhuna**  
 🔍 **Exploring software development,Full-Stack Development**  
 💡 **Passionate about building efficient and scalable solutions**  
 
